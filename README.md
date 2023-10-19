@@ -6,21 +6,21 @@ This project is a User Management System built using Spring Boot. It allows you 
 
 The User Management System project provides the following user attributes:
 
-    - UserId
-    - Name
-    - UserName
-    - Address
-    - Phone Number
+    UserId
+    Name
+    UserName
+    Address
+    Phone Number
 
 ## Endpoints
 
 The project offers the following RESTful endpoints for managing users:
 
-    - POST /users/addUser: Add a new user.
-    - GET /users/getUser/{userId}: Get user details by UserId.
-    - GET /users/getAllUser: Get a list of all users.
-    - PUT /users/updateUserInfo/{userId}: Update user information.
-    - DELETE /users/deleteUser/{userId}: Delete a user.
+    POST /users/addUser: Add a new user.
+    GET /users/getUser/{userId}: Get user details by UserId.
+    GET /users/getAllUser: Get a list of all users.
+    PUT /users/updateUserInfo/{userId}: Update user information.
+    DELETE /users/deleteUser/{userId}: Delete a user.
 
 
 Usage

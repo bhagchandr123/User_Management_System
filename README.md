@@ -23,7 +23,8 @@ The project offers the following RESTful endpoints for managing users:
     DELETE /users/deleteUser/{userId}: Delete a user.
 
 
-Usage
+## Usage
+
 Once the application is running, you can use a tool like Postman or curl to test the provided endpoints for adding, retrieving, updating, and deleting user information.
 
 ![Screenshot 2023-10-19 174435](https://github.com/bhagchandr123/User_Management_System/assets/142751557/6cd867dd-4d75-4062-b755-eea3f86a756f)

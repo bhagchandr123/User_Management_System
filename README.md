@@ -1,8 +1,9 @@
 ## User_Management_System
 
-.This project is a User Management System built using Spring Boot. It allows you to perform CRUD (Create, Read, Update, Delete) operations on user data through a set of RESTful endpoints.
+This project is a User Management System built using Spring Boot. It allows you to perform CRUD (Create, Read, Update, Delete) operations on user data through a set of RESTful endpoints.
 
 ## Project Description
+
 The User Management System project provides the following user attributes:
 .UserId
 .Name
@@ -11,6 +12,7 @@ The User Management System project provides the following user attributes:
 .Phone Number
 
 ## Endpoints
+
 The project offers the following RESTful endpoints for managing users:
 
 POST /users/addUser: Add a new user.
